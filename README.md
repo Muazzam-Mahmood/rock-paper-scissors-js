@@ -1,6 +1,6 @@
 # Rock Paper Scissors JS
 
-An interactive **Rock Paper Scissors** web game built with **HTML, CSS, and JavaScript** as part of my JavaScript learning journey.
+An interactive **Rock Paper Scissors** web game built with **HTML, CSS, and JavaScript**.
 
 ---
 
@@ -26,20 +26,14 @@ An interactive **Rock Paper Scissors** web game built with **HTML, CSS, and Java
 ---
 
 ## 📂 Project Structure
-rock-paper-scissors-js/
+rock-paper-scissors-js/  
 
-├── index.html # Main HTML file 
-
-├── style.css # Styling for the game
-
-├── app.js # Game logic
-
-└── images/ # Rock, Paper, Scissors images
-
-     ├── rock.png
-
-     ├── paper.png
-
-     └── scissors.png
+      ├── index.html # Main HTML file 
+      ├── style.css # Styling for the game
+      ├── app.js # Game logic
+      └── images/ # Rock, Paper, Scissors images
+         ├── rock.png
+         ├── paper.png
+         └── scissors.png
 
 ---
